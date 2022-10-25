@@ -1,4 +1,9 @@
-* {
+
+
+
+/* REFER TO COMPLETED FOLDER */
+
+*, *::before, *::after {
   box-sizing: border-box;
 }
 
@@ -12,7 +17,6 @@ body {
   background: #23424a;
   color: white;
   padding: 9.375rem 7.5rem;
-  /* height: 300px; */
 }
 
 .container h1 {
@@ -37,6 +41,6 @@ body {
   font-size: 21px;
   font-weight: bold;
   padding: 1rem 3rem;
-  border-radius: 2rem;
+  border-radius: 2rem; 
   margin-top: 2rem;
 }
